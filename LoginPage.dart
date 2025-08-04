@@ -20,6 +20,7 @@ class _LoginPageState extends State<LoginPage> {
         padding: const EdgeInsets.symmetric(horizontal: 20), // Add const
         decoration: BoxDecoration(
           gradient: LinearGradient(
+            
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
             colors: [
@@ -184,4 +185,5 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 }
+
 
