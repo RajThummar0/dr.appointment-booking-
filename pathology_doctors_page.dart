@@ -50,6 +50,7 @@ class PathologyDoctorsPage extends StatelessWidget {
           return DoctorCard(
             doctor: doctors[index],
             onTap: () {
+              
               Navigator.push(
                 context,
                 MaterialPageRoute(
