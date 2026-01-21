@@ -12,7 +12,7 @@ class PathologyDoctorsPage extends StatelessWidget {
       name: "Dr. Ananya Patel",
       specialty: "Pathologist",
       address: "1234 Health Street, Ahmedabad, Gujarat",
-      rating: 4.5,
+      rating: 4.0,
       reviews: [
         "Dr. Ananya is very knowledgeable and attentive. Highly recommend!",
       ],
