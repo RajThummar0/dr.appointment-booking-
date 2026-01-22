@@ -56,6 +56,7 @@ class _LoginPageState extends State<LoginPage> {
                         return 'Please enter a valid email';
                       }
                       return null;
+                      //return null values
                     },
                     onSaved: (value) {
                       _email = value;
@@ -185,5 +186,6 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 }
+
 
 
