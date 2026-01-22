@@ -68,6 +68,7 @@ class HomePage extends StatelessWidget {
               // Categories Section
               Text(
                 'Categories',
+                //this is the categories
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
               ),
               SizedBox(height: 10),
@@ -381,4 +382,5 @@ class TopDoctorCard extends StatelessWidget {
     );
   }
 }
+
 
