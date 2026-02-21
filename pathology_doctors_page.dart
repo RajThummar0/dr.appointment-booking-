@@ -9,6 +9,7 @@ import 'package:flutter_application_1/Scrreens/profile_page.dart';
 class PathologyDoctorsPage extends StatelessWidget {
   final List<Doctor> doctors = [
     Doctor(
+      
       name: "Dr. Ananya Patel",
       specialty: "Pathologist",
       address: "1234 Health Street, Ahmedabad, Gujarat",
